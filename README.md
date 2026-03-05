@@ -11,14 +11,25 @@ Elle permet aux utilisateurs de consulter différents exercices physiques et d�
 
 Vous pouvez ajouter ici des captures d’écran de l’application.
 
-```
-screenshots/
-│
-├── signin.png
-├── signup.png
-├── exercises_list.png
-└── exercise_detail.png
-```
+## 📱 Captures d’écran
+
+### Splash Screen
+![Splash](screenshots/splash.png)
+
+### Welcome Page
+![Welcome](screenshots/welcomepage.png)
+
+### Sign In
+![SignIn](screenshots/signin.png)
+
+### Sign Up
+![SignUp](screenshots/signup.png)
+
+### Liste des exercices
+![Exercises](screenshots/exercises_list.png)
+
+### Détails de l’exercice
+![Detail](screenshots/exercise_detail.png)
 
 ---
 
